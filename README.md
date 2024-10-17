@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 
 <!--타이틀 부분-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -89,4 +93,8 @@ Here are some ideas to get you started:
   ![goozip2's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=radical)
   <br>
   ![goozip2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&layout=compact)
+
+
+
+
 
