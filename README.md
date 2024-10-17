@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 ![goozip2's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=radical)
 <br>
 <!-- 깃허브 커밋 그래프 -->
-![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=ongsim0629&theme=react-dark)
+![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=goozip2&theme=react-dark)
