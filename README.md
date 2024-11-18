@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 ### ⚡STATS⚡
 <!--github 언어 사용 순위-->
 [![goozip2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&langs_count=10&theme=synthwave&show_icons=true&hide_border=true&layout=compact)](https://github.com/goozip2/goozip2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&layout=compact&theme=dracula)
 <br>
 <!--백준 티어-->
 [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2)
