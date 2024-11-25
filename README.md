@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 📫 Contact 📫
 <div>
-  <a href="https://velog.io/">
+  <a href="https://velog.io/@goozip2/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="https://www.notion.so/Notion-Overview-a427fbe728d044a1827bac21620e34fb">
