@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@goozip2/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/Notion-Overview-a427fbe728d044a1827bac21620e34fb">
+  <a href="https://habitual-grin-6ec.notion.site/s-Portfolio-12e9600f6459802b91c1eb2a1d7f48b8?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="mailto:goozip2@gmail.com">
