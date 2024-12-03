@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 <!--github 언어 사용 순위
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&layout=compact&theme=dracula)
 <br>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&langs_count=8)
 <!--백준 티어-->
 [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2)
 <br>
