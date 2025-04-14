@@ -1,4 +1,4 @@
-## 😄welcome to Sehyun's github
+## 😄Welcome to Sehyun's GitHub
 
 <!--
 **goozip2/goozip2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)-->
 
 ### 📫 Contact 📫
 <div>
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <br>
 
 ### ✨ Tech Stack ✨
-<div>
+<!--<div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+</div>-->
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&layout=compact&theme=dracula)
 <br>-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&langs_count=8)-->
-<!--백준 티어-->
-[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2)
+
+| [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2) | ![goozip2's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=radical)|
+| ------------- | ------------- |
+
 <br>
-<!--github 통계-->
-![goozip2's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=radical)
-<br>
+
 <!-- 깃허브 커밋 그래프 -->
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=goozip2&theme=react-dark)
