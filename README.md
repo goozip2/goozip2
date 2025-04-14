@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <br>-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goozip2&langs_count=8)-->
 
-| [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2) | ![goozip2's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=radical)|
+| [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzongal2)](https://solved.ac/zzongal2) | ![Sehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=goozip2&show_icons=true&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
 
 <br>
